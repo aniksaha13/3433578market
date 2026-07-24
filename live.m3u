@@ -845,17 +845,17 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 
               #======cutton network=====
 
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/MBpRGT7.jpeg" group-title="catoon network",Wow kidz
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/MBpRGT7.jpeg" group-title="Kids",Wow kidz
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/93btEKE.jpeg" group-title="catoon network",Tom & jerry Tv
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/93btEKE.jpeg" group-title="Kids",Tom & jerry Tv
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="party Universe B" group-title="catoon network",party Universe B
+#EXTINF:-1 tvg-id="100" tvg-logo="party Universe B" group-title="Kids",party Universe B
 https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/L0Rf0R9.jpeg" group-title="catoon network",Bantul the Great
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/L0Rf0R9.jpeg" group-title="Kids",Bantul the Great
 https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/ZgzHqSM.jpeg" group-title="catoon network",Doraemon Tv
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/ZgzHqSM.jpeg" group-title="Kids",Doraemon Tv
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/ALlwkO7.jpeg" group-title="catoon network",Mr Bean Animated
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/ALlwkO7.jpeg" group-title="Kids",Mr Bean Animated
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
 
            #========infotainment======
