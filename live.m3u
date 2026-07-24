@@ -726,10 +726,16 @@ https://bdx-livestream.github.io/id34578/Colorsbanglahd-1.m3u8
 https://bdx-livestream.github.io/id34578/Colorsbanglahd-2.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/Ya47Y5k.jpeg",[BD] colors banglahd-3
 https://bdx-livestream.github.io/id34578/Colorsbanglahd-3.m3u8
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/Ya47Y5k.jpeg",[BD] colors-BD-sdr
+http://live.balajibroadband.com:3500/live/756.m3u8
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/Ya47Y5k.jpeg",[BD] colors-BD-sdrp
+http://live.balajibroadband.com:3500/live/1369.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] colors bangla cinema-1
 https://bdx-livestream.github.io/id34578/Colorsbanglacinema-1.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] colors bangla cinema-2
 https://bdx-livestream.github.io/id34578/Colorsbanglacinema-2.m3u8
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] colors-BD-cinema-sdr
+http://live.balajibroadband.com:3500/live/1657.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/eCXxuBi.jpeg",[BD] Akash8
 https://bdx-livestream.github.io/id34578/Akash8.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/Ja6kbbt.jpeg",[BD] Enter10-Bangla
