@@ -723,7 +723,7 @@ https://bdx-livestream.github.io/id34578/Colorsbanglahd-2.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/Ya47Y5k.jpeg",[BD] colors banglahd-3
 https://bdx-livestream.github.io/id34578/Colorsbanglahd-3.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/Ya47Y5k.jpeg",[BD] colors-BD-sdr
-#http://live.balajibroadband.com:3500/live/756.m3u8
+http://live.balajibroadband.com:3500/live/756.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/Ya47Y5k.jpeg",[BD] colors-BD-sdrpbdx
 https://bdx-livestream.github.io/id34578/Colorsbanglahd-bdx.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] colors bangla cinema-1
